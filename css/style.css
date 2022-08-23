@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    box-sizing: border-box;
+    background: #f6f8f9;
+    font-family: Arial, Helvetica, sans-serif Tahoma, sans-serif;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+h3 {
+    text-align: center;
+    margin: 20px 0;
+}
+
+p {
+    text-align: center;
+    margin: 20px 0;
+    font-size: 18px;
+}
+
+.allblock {
+    text-align: center;
+    width: 582px;
+    margin: auto;
+}
+
+.block {
+    width: 150px;
+    height: 150px;
+    float: left;
+    margin: 20px;
+    border: 2px solid rgb(132, 134, 184);
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
